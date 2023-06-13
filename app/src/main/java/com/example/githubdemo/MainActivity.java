@@ -16,4 +16,5 @@ public class MainActivity extends AppCompatActivity {
     public void getData(){
         Toast.makeText(this, "Hello gitHub", Toast.LENGTH_SHORT).show();
     }
+    // This is my 3rd commit
 }
